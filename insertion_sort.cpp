@@ -1,3 +1,4 @@
+//This algorithm is Insertion sort, one of the many ways to sort arrays. It has a time complexity of O(n^2) and a space complexity of O(n)
 #include<bits/stdc++.h>
 using namespace std;
 
